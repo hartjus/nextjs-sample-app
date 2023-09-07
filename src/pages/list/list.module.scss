@@ -1,0 +1,13 @@
+.page {
+    background-color: #181616;
+    color: #eee;
+    padding: 30px;
+
+    A {
+        color: #2e86ab;
+
+        &:hover {
+            color: #f6f5ae;
+        }
+    }
+}
